@@ -55,3 +55,4 @@ class GCN(nn.Module):
             "input_dim": self._input_dim,
             "output_dim": self._output_dim,
         }
+##
